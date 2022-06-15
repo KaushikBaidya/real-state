@@ -1,0 +1,211 @@
+{
+  "banner": [
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/SQxS4Sh/slide1.jpg",
+      "title1": "Lorem ipsum dolor",
+      "title2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ullamcorper",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum mattis velit, sit amet faucibus felis iaculis nec. Nulla laoreet justo vitae porttitor porttitor. Suspendisse in sem justo. Integer laoreet magna nec elit suscipit, ac laoreet nibh euismod. Aliquam hendrerit lorem at elit facilisis rutrum. Ut at ullamcorper velit. Nulla ligula nisi, imperdiet ut lacinia nec tincidunt ut libero. Aenean feugiat non eros quis feugiat."
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/sKSSr0Q/slide2.jpg",
+      "title1": "Lorem ipsum dolor",
+      "title2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ullamcorper",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum mattis velit, sit amet faucibus felis iaculis nec. Nulla laoreet justo vitae porttitor porttitor. Suspendisse in sem justo. Integer laoreet magna nec elit suscipit, ac laoreet nibh euismod. Aliquam hendrerit lorem at elit facilisis rutrum. Ut at ullamcorper velit. Nulla ligula nisi, imperdiet ut lacinia nec tincidunt ut libero. Aenean feugiat non eros quis feugiat."
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/LCcjgY9/slide3.jpg",
+      "title1": "Lorem ipsum dolor",
+      "title2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ullamcorper",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum mattis velit, sit amet faucibus felis iaculis nec. Nulla laoreet justo vitae porttitor porttitor. Suspendisse in sem justo. Integer laoreet magna nec elit suscipit, ac laoreet nibh euismod. Aliquam hendrerit lorem at elit facilisis rutrum. Ut at ullamcorper velit. Nulla ligula nisi, imperdiet ut lacinia nec tincidunt ut libero. Aenean feugiat non eros quis feugiat."
+    },
+    {
+      "img": null,
+      "title1": "demo",
+      "title2": "aaaaaaaaaaaaaaaa",
+      "details": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "image": {},
+      "id": 4
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "title": "Get Expert Help",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ullamcorper"
+    },
+    {
+      "id": 2,
+      "title": "Get Expert Help",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ullamcorper"
+    },
+    {
+      "id": 3,
+      "title": "Launch Your Store",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ullamcorper"
+    },
+    {
+      "title": "demo test",
+      "details": "asasasasasasasasasasasassasasasasasasasasasa",
+      "id": 4
+    }
+  ],
+  "properties": [
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/rw2LYbp/p1.jpg",
+      "title": "Big Retail Space",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ullamcorper"
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/jH2GBvC/p3.jpg",
+      "title": "Large And Modern Retail Space",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ullamcorper"
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/SQxS4Sh/slide1.jpg",
+      "title": "Design Storefront",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ullamcorper"
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/SQxS4Sh/slide1.jpg",
+      "title": "Large And Modern Retail Space",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ullamcorper"
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/rw2LYbp/p1.jpg",
+      "title": "Design Storefront",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ullamcorper"
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/b5bDd3P/p2.jpg",
+      "title": "Big Retail Space",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ullamcorper"
+    },
+    {
+      "img": null,
+      "title": "demo test",
+      "details": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "image": {
+        "0": {}
+      },
+      "id": 7
+    }
+  ],
+  "gallery": [
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/b5bDd3P/p2.jpg",
+      "title": "Get Expert Help"
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/rw2LYbp/p1.jpg",
+      "title": "Get Expert Help"
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/b5bDd3P/p2.jpg",
+      "title": "Launch Your Store"
+    }
+  ],
+  "ourTeam": [
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/mXFkysd/team1.jpg",
+      "title": "John Doe",
+      "details": "Retail Expert & Customer Care"
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/QQqnhkx/team2.jpg",
+      "title": "John Doe",
+      "details": "Retail Expert & Customer Care"
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/mXFkysd/team1.jpg",
+      "title": "John Doe",
+      "details": "Retail Expert & Customer Care"
+    },
+    {
+      "img": null,
+      "title": "demo",
+      "details": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "image": {
+        "0": {}
+      },
+      "id": 4
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/mXFkysd/team1.jpg",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Voluptatibus quia, Nonea! Maiores et perferendis eaque,exercitationem praesentium nihil.",
+      "name": "John Doe",
+      "title": "Apple"
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/QQqnhkx/team2.jpg",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Voluptatibus quia, Nonea! Maiores et perferendis eaque,exercitationem praesentium nihil.",
+      "name": "John Doe",
+      "title": "Apple"
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/mXFkysd/team1.jpg",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Voluptatibus quia, Nonea! Maiores et perferendis eaque,exercitationem praesentium nihil.",
+      "name": "John Doe",
+      "title": "Apple"
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/mXFkysd/team1.jpg",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Voluptatibus quia, Nonea! Maiores et perferendis eaque,exercitationem praesentium nihil.",
+      "name": "John Doe",
+      "title": "Apple"
+    }
+  ],
+  "partner": [
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/hRrRrq0/partner1.png"
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/JnmF7g9/partner2.png"
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/hRrRrq0/partner1.png"
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/JnmF7g9/partner2.png"
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/hRrRrq0/partner1.png"
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/JnmF7g9/partner2.png"
+    },
+    {
+      "img": null,
+      "image": {
+        "0": {}
+      },
+      "id": 7
+    }
+  ]
+}

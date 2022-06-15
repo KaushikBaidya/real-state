@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,700;1,300&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.h-100 {
+  height: 35rem;
+}
+.sidebar-menu-item {
+  @apply flex items-center w-56 h-10 px-3 mt-1 rounded hover:bg-darker hover:text-gray-300;
+}
+
+.form-col {
+  @apply grid grid-cols-1 gap-4 mt-4 p-4;
+}
+.form-row {
+  @apply grid grid-cols-1 lg:pr-96;
+}
+.form-control {
+  @apply w-full p-2 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-t-md focus:outline-none sm:text-sm;
+}
+.input-border-primary {
+  @apply focus:ring-primary focus:border-primary;
+}
+.input-border-danger {
+  @apply focus:ring-red-400 focus:border-red-400;
+}
+
+.menu-item {
+  @apply origin-top-right absolute mt-2 w-48 rounded-md shadow-lg py-1 bg-white ring-1 ring-black ring-opacity-5 focus:outline-none;
+}
+.menu-item-btn {
+  @apply bg-primary text-white p-2 rounded-full  hover:text-white focus:ring-2 focus:ring-offset-2  focus:ring-secondary;
+}
+.side-menu-item {
+  @apply mt-1 mx-2 px-2 py-2 relative text-xs cursor-pointer font-medium tracking-wider flex items-center group rounded-md transition delay-75 hover:text-white hover:bg-indigo-800;
+}
+
+.card {
+  @apply grid grid-cols-1 place-self-center bg-white rounded-lg shadow-sm break-words p-5 my-5;
+}
+
+.btn {
+  @apply font-semibold rounded shadow flex justify-center cursor-pointer transition delay-75;
+}
+.btn-primary {
+  @apply btn py-2 px-4 bg-primary text-white hover:bg-opacity-80;
+}
+.btn-save {
+  @apply btn-primary  w-full md:w-96;
+}
+.btn-add {
+  @apply px-0 py-0 font-semibold rounded-3xl shadow cursor-pointer transition delay-75 bg-white text-black hover:bg-opacity-80;
+}
+.btn-edit {
+  @apply mr-2 py-1 px-3 bg-success text-white  rounded shadow cursor-pointer transition delay-75;
+}
+.btn-delete {
+  @apply py-2 px-3 bg-lightButton text-white  rounded shadow cursor-pointer transition delay-75;
+}
+.btn-orange {
+  @apply text-center inline-block px-3 py-2 rounded-lg bg-lightButton hover:bg-hoverButton font-semibold text-sm text-white shadow-lg transition delay-75;
+}
+/* Modal  */
+.modal {
+  @apply fixed top-0 bottom-0 left-0 right-0;
+}
+.modal-backdrop {
+  @apply w-screen h-screen flex justify-center items-center;
+}
+.modal-box {
+  @apply bg-gray-500 p-5 w-6/12 h-52 lg:w-4/12 rounded-xl;
+}
+.modal-btn {
+  @apply bg-primary p-2 text-secondary rounded mt-2;
+}
+
+/* List / Table style */
+.list-wrapper {
+  @apply border-green-100 grid grid-cols-1 space-y-1;
+}
+.list-header {
+  @apply hidden bg-gray-300 text-primary p-3 rounded-t-md;
+}
+.list-body {
+  @apply p-3  gap-1 odd:bg-gray-100 even:bg-gray-200 hover:bg-gray-400 hover:text-white;
+}
+.list-footer {
+  @apply md:grid grid-cols-11 bg-gray-300 text-primary rounded-b-md p-3 mt-2;
+}
+
+/* Header Navbar */
+.nav-item {
+  @apply px-3 py-2 flex items-center text-sm uppercase font-bold leading-snug text-black hover:opacity-75 hover:bg-darkBlue hover:text-white transition duration-300 rounded-sm;
+}
